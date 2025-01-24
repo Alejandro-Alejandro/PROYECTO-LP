@@ -1,0 +1,12 @@
+C:\Users\Aleja\source\repos\GestorInventario\bin\Debug\GestorInventario.exe.config
+C:\Users\Aleja\source\repos\GestorInventario\bin\Debug\GestorInventario.exe
+C:\Users\Aleja\source\repos\GestorInventario\bin\Debug\GestorInventario.pdb
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.csproj.AssemblyReference.cache
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.Properties.Resources.resources
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.csproj.GenerateResource.cache
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.exe
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.pdb
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.Actualizar.resources
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.Ingresar.resources
+C:\Users\Aleja\source\repos\GestorInventario\obj\Debug\GestorInventario.Principal.resources
